@@ -14,10 +14,7 @@ This research paper investigates the comparative efficiency of Red-Black Trees a
 - Bibliography
 
 ### Sneak Peeks
-
-//insert document
-//insert document
-
+![AVL](https://github.com/user-attachments/assets/e541bce2-68a6-4924-9e5b-d3005f1435b2)
 ## Citations
 
 - [AVL Trees - University of California, Irvine](https://www.ics.uci.edu/~goodrich/teach/cs260P/notes/AVLTrees.pdf)
